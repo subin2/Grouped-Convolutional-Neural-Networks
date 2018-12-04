@@ -16,6 +16,12 @@ A simple tensorFlow implementation of the paper,
 * matplotlib  
   
   
+## Train & Test
+You should have your data and cluster index in .csv files.  
+The data should be in (_time_step_, _feature_) shape where _time_step_ is the length of the time series data and _feature_ is the number of features.  
+The cluster should be in (_feature_) shape where each element has the index to the cluster in which the feature belongs to.
+
+
   
 ## LICENSE
 MIT License
