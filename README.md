@@ -1,18 +1,17 @@
-# LearningGroupStructure. 
+# Grouped Convolutional Neural Networks. 
 
-This is the tensorFlow implementation of the following paper.  
+A simple tensorFlow implementation of the paper, 
 
-[_Learning the Group Structure of Deep Neural Networks with an EM Method_](http://sail.unist.ac.kr/papers/ICDM18WLeeSChoiJ.pdf), Subin Yi and 
-Jaesik Choi, 2018.  
-
+[Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf), Subin Yi, Janghoon Ju, Man-Ki Yoon, and Jaesik Choi, 2017.  
 
 
 ## Dependencies
 * tensorflow>=1.0  
 * numpy  
 * scipy  
-* cPickle  
+* pandas
 * matplotlib  
+
 
 ## LICENSE
 MIT License
