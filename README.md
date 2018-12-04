@@ -21,5 +21,5 @@ MIT License
 
 ## Contacts
 Subin Yi (yisubin0202@gmail.com)  
-Janghoon Ju (wnwkdgns@gmail.com)
+Janghoon Ju (wnwkdgns@gmail.com)  
 Jaesik Choi (jaesik@unist.ac.kr)
