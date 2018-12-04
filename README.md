@@ -17,3 +17,9 @@ A simple tensorFlow implementation of the paper,
 
 ## LICENSE
 MIT License
+
+
+## Contacts
+Subin Yi (yisubin0202@gmail.com)  
+Janghoon Ju (wnwkdgns@gmail.com)
+Jaesik Choi (jaesik@unist.ac.kr)
